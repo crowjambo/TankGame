@@ -1,14 +1,20 @@
 fileFormatVersion: 2
-guid: 47397d4254fae3c46857b8085e326c9f
+guid: e9667ab4a1ab30241a3b837ffce48c0c
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: turretHead
     400000: //RootNode
+    400002: turretHead
     2100000: body
+    2100002: No Name
     2300000: //RootNode
+    2300002: turretHead
     3300000: //RootNode
+    3300002: turretHead
     4300000: Body
+    4300002: turretHead
   externalObjects: {}
   materials:
     importMaterials: 1
